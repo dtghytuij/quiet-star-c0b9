@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2024-11-01",
+  "main": "src/index.ts",
+  "name": "quiet-star-c0b9",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "c5733192-59bf-4050-8d2a-de4a321b368f",
+      "database_name": "solitary-rice-4e88-d1"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
